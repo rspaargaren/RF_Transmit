@@ -1,0 +1,6 @@
+RF_Transmit	KEYWORD1
+sendPIR1	KEYWORD2
+sendGeneric	KEYWORD2
+sendDimmer1	KEYWORD2
+sendSwitch1	KEYWORD2
+sendContact1	KEYWORD2
